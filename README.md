@@ -21,32 +21,8 @@
 ---
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=duckstroms&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=duckstroms&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=duckstroms&theme=gruvbox_duo" align="center" alt="https://andripwn.github.io"  />
 </p>
 
 <h4 align="center">Hacktivity</h4>
 <h1 align="center">❝</h1>
-
-<table>
-  <tr>
-    <th>Report ID</th>
-    <th>Message</th>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://hackerone.com/reports/738615">#738615</a></td>
-    <td>Multiple Vulnerabilities at Wordpress site. 😱</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://hackerone.com/reports/699030">#699030</a></td>
-    <td>Credentials bypassed Admin Management Dashboard</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://hackerone.com/reports/768151">#768151</a></td>
-    <td>Bypassing CORS Misconfiguration Vulnerabilities 🌟</td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="https://hackerone.com/reports/816888">#816888</a></td>
-    <td>Configuration Files Exposed</td>
-  </tr>
-</table>
