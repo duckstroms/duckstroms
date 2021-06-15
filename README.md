@@ -5,7 +5,7 @@
   <a href="http://twitter.com/duckstroms">
     <img src="https://img.shields.io/twitter/follow/duckstroms?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>  
-  <a href="https://discord.gg/CG8yNjURM5">
+  <a href="https://discord.gg/CG8yNjURM5"> 
     <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge" />
   </a>
   <a href="https://www.youtube.com/channel/UCvxYIozXmylJPPFPlj1-xMg?sub_confirmation=1">
