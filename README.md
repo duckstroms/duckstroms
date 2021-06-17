@@ -1,4 +1,4 @@
-<p align="center">  
+<p align="center">   
   <a href="https://github.com/duckstroms?tab=followers">
     <img src="https://img.shields.io/github/followers/duckstroms?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
