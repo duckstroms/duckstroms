@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/github/followers/duckstroms?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/hooksteroid">
-    <img src="https://img.shields.io/twitter/follow/duckstroms?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/hooksteroid?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>  
   <a href="https://discord.gg/CG8yNjURM5"> 
     <img src="https://img.shields.io/discord/K47eCSntqB?logo=discord&style=for-the-badge" />
