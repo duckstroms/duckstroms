@@ -5,7 +5,7 @@
   <a href="http://twitter.com/hooksteroid">
     <img src="https://img.shields.io/twitter/follow/hooksteroid?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>  
-  <a href="https://discord.gg/CG8yNjURM5"> 
+  <a href="https://discord.gg/K47eCSntqB"> 
     <img src="https://img.shields.io/discord/K47eCSntqB?logo=discord&style=for-the-badge" />
   </a>
   <a href="https://www.youtube.com/channel/UCvxYIozXmylJPPFPlj1-xMg?sub_confirmation=1">
